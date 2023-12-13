@@ -36,12 +36,11 @@ KaiGE's Organization is dedicated to developing and promoting the KaiGE game eng
 
 ## Getting Started
 
-<ins>
 To get started with KaiGE, visit the repository [here](https://github.com/KaiGE-Organization/KaiGE) or the documentation [here](https://kaige.rs/docs)
 
+## Contributing
 
-
-Contributions to KaiGE are welcome! Whether you want to report a bug, request a feature, or contribute code, check out our [Contribution Guidelines](CONTRIBUTING.md) to get started.
+Contributions to KaiGE are welcome! Whether you want to report a bug, request a feature, or contribute code, look at the [KaiGE Repository](https://github.com/KaiGE-Organization/KaiGE) for more info.
 
 ## License
 
